@@ -12,7 +12,7 @@ npm (Node Package Manager)
 ## Getting Started
 Clone the repository to your local machine:
 
-git clone https://github.com/your-username/quote-generator.git
+git clone https://github.com/lukasilverio94/quote-generator.git
 Replace your-username with your GitHub username.
 
 ### Navigate to the project directory:
